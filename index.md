@@ -2,4 +2,4 @@
 title: _the_ Space Mafia
 ---
 
-Hello Everyone
+This is an example of a post
